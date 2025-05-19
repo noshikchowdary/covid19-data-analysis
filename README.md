@@ -28,3 +28,5 @@ This project is a simple ETL (Extract, Transform, Load) pipeline for COVID-19 da
    ```bash
    git clone https://github.com/yourusername/covid_etl_pipeline.git
    cd covid_etl_pipeline
+   ```
+   
